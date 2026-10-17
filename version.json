@@ -1,4 +1,4 @@
 {
-  "version": "2.8.0",
-  "notes": "Three instant themes, Sylvaeren Studios branding, and improved offline app caching."
+  "version": "2.8.1",
+  "notes": "Theme consistency fix: Guide turn cards, Beginner Mode, and other interactive controls now follow all three themes."
 }

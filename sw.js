@@ -1,5 +1,5 @@
-// Kiran's Companion V2.8 — offline app shell, same-origin only.
-const CACHE='kiran-companion-shell-v2.8.0';
+// Kiran's Companion V2.8.1 — offline app shell, same-origin only.
+const CACHE='kiran-companion-shell-v2.8.1';
 const SHELL=['./','./index.html'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
