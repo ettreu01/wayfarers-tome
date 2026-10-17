@@ -1,4 +1,4 @@
 {
-  "version": "2.9.0",
-  "notes": "Wayfarer\u2019s Tome: multiple adventurers, safe legacy Kiran migration, manual character creation, library backups and character switching."
+  "version": "2.9.1",
+  "notes": "iPhone top safe area, header visibility, and scrolling improvements; no character save changes."
 }
