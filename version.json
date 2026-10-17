@@ -1,4 +1,4 @@
 {
-  "version": "2.9.2",
-  "notes": "Stability fixes: dynamic character header, iPhone text zoom, clearer manual sheet access, and Assassin-only control visibility."
+  "version": "2.9.3",
+  "notes": "Restored missing stats rendering; view/edit/save/cancel for stats and story; character initials; delete adventurer."
 }
