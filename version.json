@@ -1,4 +1,4 @@
 {
-  "version": "2.9.4",
-  "notes": "Compact bottom editing controls, per-character dismissible setup reminder, and Stats Cancel navigation fix."
+  "version": "2.9.5",
+  "notes": "Compact heading Edit buttons, unsaved changes navigation warning, subtle save confirmation, and accessibility polish."
 }
