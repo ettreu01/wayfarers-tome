@@ -1,4 +1,4 @@
 {
-  "version": "2.9.3",
-  "notes": "Restored missing stats rendering; view/edit/save/cancel for stats and story; character initials; delete adventurer."
+  "version": "2.9.4",
+  "notes": "Compact bottom editing controls, per-character dismissible setup reminder, and Stats Cancel navigation fix."
 }

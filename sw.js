@@ -1,5 +1,5 @@
-// Wayfarer’s Tome V2.9.3 — offline app shell, same-origin only.
-const CACHE='kiran-companion-shell-v2.9.3';
+// Wayfarer’s Tome V2.9.4 — offline app shell, same-origin only.
+const CACHE='kiran-companion-shell-v2.9.4';
 const SHELL=['./','./index.html'];
 self.addEventListener('install',event=>{
  event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(SHELL)).then(()=>self.skipWaiting()));
