@@ -1,4 +1,4 @@
 {
-  "version": "2.9.1",
-  "notes": "iPhone top safe area, header visibility, and scrolling improvements; no character save changes."
+  "version": "2.9.2",
+  "notes": "Stability fixes: dynamic character header, iPhone text zoom, clearer manual sheet access, and Assassin-only control visibility."
 }
